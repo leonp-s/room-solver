@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/leonps531/room-solver/static/js/main.18c3d20f.chunk.js",
-    "main.js.map": "/leonps531/room-solver/static/js/main.18c3d20f.chunk.js.map",
-    "runtime-main.js": "/leonps531/room-solver/static/js/runtime-main.ffd48bf2.js",
-    "runtime-main.js.map": "/leonps531/room-solver/static/js/runtime-main.ffd48bf2.js.map",
-    "static/js/2.2b2cb267.chunk.js": "/leonps531/room-solver/static/js/2.2b2cb267.chunk.js",
-    "static/js/2.2b2cb267.chunk.js.map": "/leonps531/room-solver/static/js/2.2b2cb267.chunk.js.map",
-    "index.html": "/leonps531/room-solver/index.html",
-    "precache-manifest.0bf220e0d8e49f0d0cf8642b0fb7378f.js": "/leonps531/room-solver/precache-manifest.0bf220e0d8e49f0d0cf8642b0fb7378f.js",
-    "service-worker.js": "/leonps531/room-solver/service-worker.js"
+    "main.js": "/room-solver/static/js/main.e614246b.chunk.js",
+    "main.js.map": "/room-solver/static/js/main.e614246b.chunk.js.map",
+    "runtime-main.js": "/room-solver/static/js/runtime-main.31fc6ba6.js",
+    "runtime-main.js.map": "/room-solver/static/js/runtime-main.31fc6ba6.js.map",
+    "static/js/2.2b2cb267.chunk.js": "/room-solver/static/js/2.2b2cb267.chunk.js",
+    "static/js/2.2b2cb267.chunk.js.map": "/room-solver/static/js/2.2b2cb267.chunk.js.map",
+    "index.html": "/room-solver/index.html",
+    "precache-manifest.9c7753a684f02353f03db499427b4332.js": "/room-solver/precache-manifest.9c7753a684f02353f03db499427b4332.js",
+    "service-worker.js": "/room-solver/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffd48bf2.js",
+    "static/js/runtime-main.31fc6ba6.js",
     "static/js/2.2b2cb267.chunk.js",
-    "static/js/main.18c3d20f.chunk.js"
+    "static/js/main.e614246b.chunk.js"
   ]
 }
