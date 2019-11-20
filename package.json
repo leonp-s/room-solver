@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.6.1",
+    "@material-ui/icons": "^4.5.1",
+    "material-table": "^1.54.1",
+    "materialize-css": "^1.0.0",
     "react": "^16.12.0",
+    "react-canvas-js": "^1.0.1",
+    "react-charts": "^2.0.0-beta.4",
+    "react-data-grid": "^6.1.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.2.0"
+    "react-editable-table": "^1.12.32",
+    "react-materialize": "^3.4.1",
+    "react-scripts": "3.2.0",
+    "react-spreadsheet-grid": "^1.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
