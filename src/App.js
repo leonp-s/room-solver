@@ -32,8 +32,8 @@ const App = () => {
                         </Typography>
                         <Typography component="p">
                             When adding to the room construction list ensure the material name matches the material name given in the "Room Materials Table".  
-                            Written by Leon P-S
                         </Typography>
+                        <a href="https://github.com/leonps531/room-solver">https://github.com/leonps531/room-solver</a>
                     </Paper>
                 </Grid>
                 <Grid item xs={10}>
