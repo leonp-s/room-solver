@@ -1,4 +1,4 @@
-**Room Solver**
+## Room Solver
 >Live Demo https://leonps531.github.io/room-solver/
 
 
